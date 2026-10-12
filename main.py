@@ -13,4 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+print("ik heb hier geen zin in")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
